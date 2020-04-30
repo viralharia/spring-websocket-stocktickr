@@ -14,7 +14,8 @@ hit - http://localhost:8080/index.html
 ## Screenshot of running application
 * First click on 'Connect' button to establish the socket connection.
 * Then add couple of Tickr names like - IBM, MSFT, AMZN, GOOG...
+
 ![Screenshot of running application](https://github.com/viralharia/spring-websocket-stocktickr/blob/master/screeshots/screenshot_1.PNG)
 
 #### Few debug messages are available under browser's console
-![browser's console](screenshots/screenshot_2.PNG)
+![browser's console](https://github.com/viralharia/spring-websocket-stocktickr/blob/master/screeshots/screenshot_2.PNG)
